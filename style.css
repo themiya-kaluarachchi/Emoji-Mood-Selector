@@ -58,4 +58,15 @@ body
   padding: 5px 10px;
   font-size: 18px;
   cursor: pointer;
+  border: none;
+  border: #000000 1px solid;
+  border-radius: 50%;
+}
+
+.dark-mode #darkModeToggle
+{
+  background-color: #000000;
+  color: #ffffff;
+  border: #ffffff 1px solid;
+  border-radius: 50%;
 }
